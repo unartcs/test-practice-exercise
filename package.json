@@ -1,0 +1,22 @@
+{
+  "name": "test-practice-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "order-total.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unartcs/test-practice-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unartcs/test-practice-exercise/issues"
+  },
+  "homepage": "https://github.com/unartcs/test-practice-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
